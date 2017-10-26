@@ -6,7 +6,7 @@ export default class About extends Component {
   }
   render() {
     return (
-      <div style={{ width: '80vh', margin: 'auto' }}>
+      <div style={{ width: '80vh', margin: 'auto', backgroundColor: 'green' }}>
         <h1>
           <u>About</u>
         </h1>

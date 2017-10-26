@@ -6,7 +6,7 @@ export default class Home extends Component {
   }
   render() {
     return (
-      <div style={{ width: '80vh', margin: 'auto' }}>
+      <div style={{ width: '80vh', margin: 'auto', backgroundColor: 'red' }}>
         <h1>
           <u>Home</u>
         </h1>

@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 export default class Contact extends Component {
   render() {
     return (
-      <div style={{ width: '80vh', margin: 'auto' }}>
+      <div style={{ width: '80vh', margin: 'auto', backgroundColor: 'blue' }}>
         <h1>
           <u>Contact</u>
         </h1>
